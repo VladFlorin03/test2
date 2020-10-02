@@ -4,6 +4,7 @@
     ?>
     <!-- Basic HTML -->
     <h1>Hey PHP Prim</h1>
+    <h1>E vineri!</h1>
     <br/>
     
     <button type="button" class="btn btn-dark">CLICK ME!</button>
